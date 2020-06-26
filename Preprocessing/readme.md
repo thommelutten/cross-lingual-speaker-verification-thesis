@@ -1,0 +1,1 @@
+This folder contains the prepocessing available for SWAN and SPARC datasets. These prepare the datasets to be used with Kaldi's SRE16 and VoxCeleb examples.

@@ -1,0 +1,1 @@
+This folder contains a simple LSTM model that uses the RPCC extracted from the VoxCeleb1 dataset.

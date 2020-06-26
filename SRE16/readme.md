@@ -1,0 +1,1 @@
+This folder contains the required files to run the SRE16 v2 example from Kaldi, with either the SPARC or SWAN dataset.

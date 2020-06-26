@@ -1,0 +1,1 @@
+This folder contains the required files to run the VoxCeleb v2 example from Kaldi, with either the SPARC or SWAN dataset.

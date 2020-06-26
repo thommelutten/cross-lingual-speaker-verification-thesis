@@ -1,0 +1,1 @@
+This folder contains Jupyter Notebook files to easily create DET curves for the results obtained using the SWAN or SPARC datasets on either the SRE16 or VoxCeleb x-vector models.
